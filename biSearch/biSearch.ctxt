@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=biSearch
+comment0.text=\n\ Write\ a\ description\ of\ class\ biSearch\ here.\n\n\ @author\ Erica\ Lee\n\ @version\ Jan\ 30,\ 2024\n
+comment1.params=nums\ start\ end\ key
+comment1.target=int\ binarySearch(int[],\ int,\ int,\ int)
+numComments=2
